@@ -1,0 +1,187 @@
+html {
+  scroll-behavior: smooth;
+ }
+
+body{
+    background-color:lightblue;
+}
+
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#myNavbar 
+{
+    background-color: navy;
+   
+   
+}
+
+ 
+input
+{
+    background-color: white;
+}
+
+.announcement{
+background-color:skyblue;
+width: 100%;
+height: 30px;
+}
+
+#marqueeStyle{
+  width:100%;
+  direction:right;
+  height:100px;
+  color:black;
+  font-size:150%;
+}
+
+#video{
+  width:100%;
+  height:500px;
+  border: none;
+}
+
+
+
+.travel_mainDiv
+{
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  border: 3px solid;
+  border-color: cadetblue;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+  height:300px;
+} 
+
+.travel_mainDiv hr
+{
+    width: 100%; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+.myproject {
+    background-color:lightcyan;
+    width: 100%;
+    text-align: left;
+    border-radius: 20px;
+}
+.img-thumbnail{
+    width: 30%;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+.img1
+{
+    border-radius:20px;
+}
+.img2
+{
+    border-radius:40px;
+}
+.img3
+{
+    border-radius:40px;
+    margin: auto;
+    padding: 10px;
+}
+.f1 
+{
+    position: sticky;
+    margin-top: 30px;
+    
+}
+
+.d1
+{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+.myjourney {
+    text-align: center;
+}
+
+p1 {
+    font-size: 20px;
+}
+
+.travel_mainDiv2
+{
+  float: left;
+  width: 50%;
+  
+  padding: 5px;
+  border: 3px solid;
+  border-color: cadetblue;
+}
+
+.travel_mainDiv2 img
+{
+  width: 100%;
+  height:300px;
+}
+p4 {
+    font-size: 19px;
+}
+
+.myjourney 
+{
+    float: none;
+}
